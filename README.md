@@ -2,13 +2,13 @@
 NeoSTORE app for iOS, created using SWIFT. 
 NeoStore is an eCommerce app with features like My Profile, Product Listing and its details, My Cart. It is an online Application. In this App User can Register using their e-mail. Once logged in user can choose from a number of furnishing products Like tables, sofas, chairs and more. User can add products to cart and continue to place order. After choosing an approprite address from previously added list of address or adding a new address, user can complete the process of placing an order. User can review the details of placed orders. User can also locate various stores using Store Locator.
 
-Cocoapods Used
+# Cocoapods Used
 pod 'SideMenu','~> 5.0'
 pod 'Alamofire', '~>4.0'
 pod 'KeychainSwift', '~>13.0.0'
 pod 'DropDown', '2.3.4'
 
-Here are all the screens of the app
+# Here are all the screens of the app
 
 1.Login Screen 
 ![Simulator Screen Shot - iPhone 12 Pro - 2021-06-30 at 17 25 08](https://user-images.githubusercontent.com/60038179/123956298-286f4700-d9c8-11eb-9ff1-82bf1d561829.png)
