@@ -4,8 +4,11 @@ NeoStore is an eCommerce app with features like My Profile, Product Listing and 
 
 # Cocoapods Used
 pod 'SideMenu','~> 5.0'
+
 pod 'Alamofire', '~>4.0'
+
 pod 'KeychainSwift', '~>13.0.0'
+
 pod 'DropDown', '2.3.4'
 
 # Here are all the screens of the app
